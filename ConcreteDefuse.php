@@ -7,7 +7,7 @@ use Defuse\Crypto\File;
 use Defuse\Crypto\Key;
 
 
-class Defuse
+class ConcreteDefuse
 {
     public function __construct()
     {
